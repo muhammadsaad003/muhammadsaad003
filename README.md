@@ -1,1 +1,18 @@
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-saad-56a85a347?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B66r%2BC0PWSGy5C3fsZ2bEjg%3D%3D))
+##  Hi, I'm Muhammad Saad
+
+ CSE student .  Passionate about AI & Software Dev
+
+---
+
+ ### Socials:
+
+ 📧 **Email**: muhammadsaad01357@gmail.com
+
+ 
+ 🔗 [LinkedIn](linkedin.com/in/muhammad-saad-56a85a347)
+
+
+
+
+###  Skills:
+C, C++, Python, Java, DSA, CP
