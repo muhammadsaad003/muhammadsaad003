@@ -9,7 +9,7 @@
  📧 **Email**: muhammadsaad01357@gmail.com
 
  
- 🔗 [LinkedIn](linkedin.com/in/muhammad-saad-56a85a347)
+ 🔗 [LinkedIn](www.linkedin.com/in/muhammad-saad-3b7705284)
 
 
 
